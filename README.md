@@ -23,3 +23,10 @@ Manipulate stock data: </br>
         http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.join.html </br>
         http://pandas.pydata.org/pandas-docs/stable/indexing.html </br>
         http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.plot.html </br>
+        
+  
+  Matplotlib: </br>
+  For generating plots in ubuntu 16.04 with python version 2.7 use :   </br>
+                    import matlotlib.pyplot as plt </br>
+                    plt.show(block=True)
+                    
